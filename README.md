@@ -1,16 +1,16 @@
-Notes to (NUS) Computer Science Freshmen, From The Future 
+# Notes to (NUS) Computer Science Freshmen, From The Future 
 
-# Intro
+## Intro
 
 Early into the AY12/13 academic year, Prof Tay Yong Chiang organized a supper for Computer Science freshmen at Tembusu College. The bunch of seniors who were gathered there put together a document for NUS computing freshmen. This is that document.
 
-Feel free to edit it, add to it, and share it with other freshmen you know.
+Feel free to create a pull request to edit or add to it, and share it with other freshmen you know.
 
-**Links**
+## Links
 
 You’ll probably want to start with some general advice written for undergraduates/beginners in Computing. Read:	
 
-* [http://www.paulgraham.com/](http://www.paulgraham.com/college.html)[college](http://www.paulgraham.com/college.html)[.html](http://www.paulgraham.com/college.html)
+* [http://www.paulgraham.com/college.html](http://www.paulgraham.com/college.html)
 
 * [http://norvig.com/21-days.html](http://norvig.com/21-days.html)
 
@@ -18,7 +18,7 @@ You’ll probably want to start with some general advice written for undergradua
 
 * [http://www.joelonsoftware.com/articles/fog0000000043.html](http://www.joelonsoftware.com/articles/fog0000000043.html)
 
-* [http://www.paulgraham.com/hs.html](http://www.paulgraham.com/hs.html) (What You Wish You’d Known)
+* [What You Wish You’d Known](http://www.paulgraham.com/hs.html)
 
 * [http://al3x.net/2013/05/23/letter-to-a-young-programmer.html](http://al3x.net/2013/05/23/letter-to-a-young-programmer.html)
 
@@ -26,7 +26,7 @@ You’ll probably want to start with some general advice written for undergradua
 
 The sites from which the above articles are available are generally good places to read from. Also, follow some Computer Science blogs and sites:
 
-* [http://paulgraham.com/articles.html](http://paulgraham.com/articles.html) - Paul Graham leans towards startups but his earlier essays on programming, technology and work are worth reading. Particularly influential: Python Paradox ([http://paulgraham.com/pypar.html](http://paulgraham.com/pypar.html)) and Maker’s Schedule, Manager’s Schedule ([http://www.paulgraham.com/makersschedule.html](http://www.paulgraham.com/makersschedule.html))
+* [http://paulgraham.com/articles.html](http://paulgraham.com/articles.html) - Paul Graham leans towards startups but his earlier essays on programming, technology and work are worth reading. Particularly influential: ([Python Paradox](http://paulgraham.com/pypar.html)) and ([Maker’s Schedule, Manager’s Schedule](http://www.paulgraham.com/makersschedule.html))
 
 * [http://www.joelonsoftware.com/](http://www.joelonsoftware.com/) - Start by reading his Reading Lists on the right
 
@@ -48,7 +48,7 @@ Because we *just* have to have some hero worship, don't we? ;-)
 
 [http://www.quora.com/What-old-school-computer-scientists-coders-evangeli](http://www.quora.com/What-old-school-computer-scientists-coders-evangelists-must-every-self-respecting-engineer-know-about)
 
-[sts-must-every-self-respecting-engineer-know-about](http://www.quora.com/What-old-school-computer-scientists-coders-evangelists-must-every-self-respecting-engineer-know-about)
+[http://www.quora.com/What-old-school-computer-scientists-coders-evangelists-must-every-self-respecting-engineer-know-about](http://www.quora.com/What-old-school-computer-scientists-coders-evangelists-must-every-self-respecting-engineer-know-about)
 
 [http://www.quora.com/Who-are-the-best-programmers-in-Silicon-Valley-and-why](http://www.quora.com/Who-are-the-best-programmers-in-Silicon-Valley-and-why)
 
@@ -60,7 +60,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
 * [http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
 
-**Introductions to various specializations**
+## Introductions to various specializations
 
 **Graduate School**
 
@@ -70,7 +70,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
 * Ph.D. Grind -[ http://pgbovine.net/PhD-memoir-epilogue.htm](http://pgbovine.net/PhD-memoir-epilogue.htm)
 
-**Programming Languages    **
+**Programming Languages**
 
 * Programming Languages Research -[ http://tagide.com/blog/2012/03/research-in-programming-languages/](http://tagide.com/blog/2012/03/research-in-programming-languages/)
 
@@ -84,7 +84,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
 If you have a Mac, start playing around with your terminal.
 
-If you don’t, figure out how to install Virtual Box ([https://www.virtualbox.org/](https://www.virtualbox.org/) ) and then figure out how to install a Linux distribution on it. Recommended ones are:
+If you don’t, figure out how to install [Virtual Box](https://www.virtualbox.org/) and then figure out how to install a Linux distribution on it. Recommended ones are:
 
 * [Ubuntu](http://www.ubuntu.com/) (Most user friendly?)
 
@@ -96,39 +96,45 @@ If you don’t, figure out how to install Virtual Box ([https://www.virtualbox.o
 
 * [CentOS](https://www.centos.org/) (Most battle tested, loved by sysadmins who treasure their sleep)
 
-Unix is **required knowledge**. As is familiarity with the shell (figure out what that means ;-) (Also, figure out what 'sudo rm -rf /' means *before trying it out*) (And :() { : | : };: )
+Unix is **required knowledge**. As is familiarity with the shell (figure out what that means ;-) (Also, figure out what `sudo rm -rf /` means *before trying it out*) (And `:() { : | : };:` )
 
 Learn an editor - either emacs or vim. They will save you a lot of time when you’re coding for CS2105. Actually, in pretty much everything else in life, as well.
 
-* **Vim **- to get started, run vimtutor from the terminal , read[ this](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/),[ this](http://rc3.org/2012/05/12/the-grammar-of-vim/) and[ this](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/), and then *zhng *your Vim according to[ this](http://stevelosh.com/blog/2010/09/coming-home-to-vim/).
+* **Vim**- to get started, run vimtutor from the terminal, read[this](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/), [this](http://rc3.org/2012/05/12/the-grammar-of-vim/) and [this](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/), and then *zhng* your Vim according to [this](http://stevelosh.com/blog/2010/09/coming-home-to-vim/).
 
-* **Emacs **- Get emacs for your platform from the[ GNU site](http://www.gnu.org/software/emacs/). Or google for more specific instructions for your platform.
+* **Emacs**- Get emacs for your platform from the[GNU site](http://www.gnu.org/software/emacs/). Or google for more specific instructions for your platform.
 
-It’s always good to[ RTFM](http://www.gnu.org/software/emacs/manual/), and to go through an[ emacs lisp intro](http://www.gnu.org/software/emacs/emacs-lisp-intro/). Or get a quick head start with the[ emacs starter kit](https://github.com/technomancy/emacs-starter-kit). pew, pew, pew [smoking all the other editors ;) ]
+It’s always good to [RTFM](http://www.gnu.org/software/emacs/manual/), and to go through an [emacs lisp intro](http://www.gnu.org/software/emacs/emacs-lisp-intro/). Or get a quick head start with the [emacs starter kit](https://github.com/technomancy/emacs-starter-kit). pew, pew, pew [smoking all the other editors ;) ]
 
 Know some regex-fu.
 
-**Learning Stuff**
+## Learning Stuff
 
 Pick a project to trick yourself into learning new technologies. Drop by Hackerspace.SG ([http://hackerspace.sg/](http://hackerspace.sg/)) Attend NUS Hackers events (the club was created, years ago, by the same people who founded Hackerspace.SG). Intern. Sign up for GSoC ([http://code.google.com/soc/](http://code.google.com/soc/)). Work for a research lab for peanuts (only recommended if you really want to learn the techniques from that lab, or you want a career in academia). 
 
 If you need something to trick yourself into tricking yourself, take CS3216/CS3217.
 
-Read code - lots of it - there’s a whole truckload of it available online (a good source is[ this  book](http://www.aosabook.org/en/index.html), and this[ list](http://www.quora.com/Computer-Programming/Where-can-one-find-examples-of-good-quality-open-source-coding/answer/Toby-Thain)).
+Read code - lots of it - there’s a whole truckload of it available online (a good source is [this book](http://www.aosabook.org/en/index.html), and this [list](http://www.quora.com/Computer-Programming/Where-can-one-find-examples-of-good-quality-open-source-coding/answer/Toby-Thain)).
 
 Learn and use version control. Thank us later.
 
-* For Mercurial - there’s a great[ guide](http://hginit.com/) written by Joel Spolsky.
+* For Mercurial - there’s a great [guide](http://hginit.com/) written by Joel Spolsky.
 
-* For Git - read[ Pro  Git,](http://git-scm.com/book) chapters 1-5, and skip chapter 4. Come back and read the rest after you’ve used Git for awhile.
+* For Git - read [Pro Git](http://git-scm.com/book) chapters 1-5, and skip chapter 4. Come back and read the rest after you’ve used Git for awhile.
 
-Set up a[ http://github.com](http://github.com) account. ‘Follow’ a few famous[ programmers](http://www.quora.com/GitHub/Who-are-the-best-coders-to-follow-on-GitHub). Start a few projects and show them off there. Also, don’t forget to give back to the community. Contribute to popular open source projects by sending in pull requests on github. *Some awesome open source NUS projects include NUSMods:**[ https://github.com/ahbeng/NUSMod*s](https://github.com/ahbeng/NUSMods)* MODIVLE:**[ https://github.com/ymichael/modivl*e](https://github.com/ymichael/modivle)* CORS Planner:**[ https://github.com/zhuochun/cors-planne*r](https://github.com/zhuochun/cors-planner)
+Set up a [http://github.com](http://github.com) account. ‘Follow’ a few famous [programmers](http://www.quora.com/GitHub/Who-are-the-best-coders-to-follow-on-GitHub). Start a few projects and show them off there. Also, don’t forget to give back to the community. Contribute to popular open source projects by sending in pull requests on github. Some awesome open source NUS projects include 
+
+* NUSMods: [https://github.com/ahbeng/NUSMods](https://github.com/ahbeng/NUSMods)
+
+* MODIVLE: [https://github.com/ymichael/modivle](https://github.com/ymichael/modivle)
+
+* CORS Planner: [https://github.com/zhuochun/cors-planner](https://github.com/zhuochun/cors-planner)
 
 Consider starting an open source project.
 
-Build your profile, write your blog using[ jekyll](http://jekyllrb.com/) using[ Github Pages](http://pages.github.com/) for free.
+Build your profile, write your blog using [jekyll](http://jekyllrb.com/) using [Github Pages](http://pages.github.com/) for free.
 
-You may also apply *free* github student account,[ checkout here](https://github.com/edu), applying using your NUS account makes it easier to verify that you’re really a student. Private repos are great for collaborating on school projects.
+You may also apply for a *free* github student account, [check out here](https://github.com/edu), applying using your NUS account makes it easier to verify that you’re really a student. Private repos are great for collaborating on school projects.
 
 Hack for fun. Fun and pointless is better than unicorny and non-existent.
 
@@ -142,11 +148,11 @@ Before coding a single line, question your own mental model of the problem. Do y
 
 Know the rules first, then see how you can break them.
 
-**Good/Interesting Courses in SoC**
+## Good/Interesting Courses in SoC
 
-* **CS1010S Programming Methodology** ( Python is damn cool )
+* **CS1010S Programming Methodology** (Python is damn cool)
 
-* **CS1101S Programming Methodology** ( Functional Programming Paradigm )
+* **CS1101S Programming Methodology** (Functional Programming Paradigm )
 
 * **CS3216 Software Development on Evolving Platforms **‘the Facebook module’: Multi-disciplinary approach to building web apps. Crazy workload (you’re expected to pick up new technologies and run with them in a week). Loads of fun. Not only for programmers.
 
@@ -162,9 +168,9 @@ Know the rules first, then see how you can break them.
 
 * **CS5231 Systems security**. You rewrite IP Tables as an assignment ;)
 
-You can also browse[ this (old) list of high-level SoC modules](http://www.comp.nus.edu.sg/undergraduates/cs_cs_focus.html). As a general rule, the higher level specialized modules tend to be more interesting (pending good lecturers). Try and get past the level-2000s so you can get at the level 4000s and above.
+You can also browse [this (old) list of high-level SoC modules](http://www.comp.nus.edu.sg/undergraduates/cs_cs_focus.html). As a general rule, the higher level specialized modules tend to be more interesting (pending good lecturers). Try and get past the level-2000s so you can get at the level 4000s and above.
 
-**Famous Books**
+## Famous Books
 
 These are books that are widely recognized to be seminal in computing. Worth reading (or at least putting on your to-read list).
 
@@ -210,7 +216,7 @@ Colloquial book titles are used where it’s famous enough to warrant so. For in
 
 * [The Performance of Open Source Applications](http://www.aosabook.org/en/index.html)
 
-List of free programming ebooks -
+### List of free programming ebooks -
 
 [https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#scheme)
 
@@ -218,7 +224,7 @@ List of free programming ebooks -
 
 Contains links to freely available ebooks online. Good for those living on a FnM (Father and Mother) scholarship.
 
-**Good books**
+### Good books
 
 Not necessarily about programming/computing.
 
@@ -226,7 +232,7 @@ Not necessarily about programming/computing.
 
 * [Delivering Happiness](http://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446563048)
 
-**Good talks**
+## Good talks
 
 Some recently famous; others highly influential.
 
@@ -246,7 +252,7 @@ Some recently famous; others highly influential.
 
 * [Harvard Commencement Speech](http://www.youtube.com/watch?v=wHGqp8lz36c) by JK Rowling
 
-**Seriously Good CS Lectures:**
+## Seriously Good CS Lectures:
 
 * [CS Lectures from Stanford](http://see.stanford.edu/see/courses.aspx), and especially:
 
@@ -264,9 +270,9 @@ Programming Languages Lectures
 
 * Rich Hickey -[ Series on Clojure Design and Thinking about Programming Languages](http://www.infoq.com/author/Rich-Hickey;jsessionid=FDE428234E8B76D971CA0984D7A0A194)
 
-**Advice from seniors**
+## Advice from seniors
 
-*Seniors - fill this in please*
+*Seniors - submit a pull request please!*
 
 Ali - Apply for NOC Silicon Valley to intern in a tech startup. You’ll learn loads with the right attitude. Don’t worry if you "didn't start a business" or “don't have entrepreneurship experience”. They love CS students.
 
@@ -284,9 +290,7 @@ Frank - Experiment; it’s not expensive to experiment with computers.
 
 Laurence - Go out and meet people from industry
 
-Jason - Be brave. Read, read and read. Read widely. Don[’t just read about computer science stuff.](http://www.ted.com/talks/derek_sivers_how_to_start_a_movement.html) ([Derek Sivers](http://www.ted.com/talks/derek_sivers_how_to_start_a_movement.html), has a very good reading[ list](http://sivers.org/book)) Learn at least a new language every year (Or learn[ 7 Languages in 7 Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks)). Make sure the language messes with the way you
-
-normally think about programming.[ Alan Perlis](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html) once said: "A *language* that doesn't affect the way you *think* about *programming*, is not *worth* knowing"
+Jason - Be brave. Read, read and read. Read widely. Don't just read about computer science stuff. [Derek Sivers](http://www.ted.com/talks/derek_sivers_how_to_start_a_movement.html), has a very good reading [list](http://sivers.org/book). Learn at least a new language every year (Or learn [7 Languages in 7 Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks)). Make sure the language messes with the way you normally think about programming. [Alan Perlis](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html) once said: "A *language* that doesn't affect the way you *think* about *programming*, is not *worth* knowing"
 
 Andrew - Make stuff to make your life easier. This works in more ways than one.
 
@@ -308,7 +312,7 @@ Shubham -
 
 2. Learn to say ‘no’. I have learnt it the very hard way that doing okay in many things and badly in a few is exponentially worse that doing well in one and only one. Don’t be overwhelmed by the many things people around you are doing. Believe and have faith in yourself.
 
-    1. Stay fit. You shouldn’t make programming late at night an excuse for a McDonald’s meal or a coke at night. Do at least half an hour of vigorous exercise everyday. Never think you don’t have enough time to care for your body. A healthy body also allows your brain to work faster. Again, saying this from personal experience.
+3. Stay fit. You shouldn’t make programming late at night an excuse for a McDonald’s meal or a coke at night. Do at least half an hour of vigorous exercise everyday. Never think you don’t have enough time to care for your body. A healthy body also allows your brain to work faster. Again, saying this from personal experience.
 
 Richard - CS can get very political, and it's easy to get into debates where someone says you should make use of some software/programming-language/API/operating-system/convention etc. etc. rather than the one you're using, or how you should learn 20 different things when what you know is all you need to get you through the job. (And they may even be correct. ;-) ).
 
@@ -332,11 +336,12 @@ Eldric -
 
 4. Make your school fees worth it. I.e. don’t spend time taking easy mods to pull your CAP up. I should repeat that this is basically the last time that you
 
-    1. get to make mistakes and get away with them
+  - get to make mistakes and get away with them
 
-    2. get to learn (additional) things for for free.
+  - get to learn (additional) things for for free.
 
-5. Study ideas, apply technologies. The hottest thing on the market now a) is going to continue being the hottest thing, b) get chucked out. If a), then well everyone will know it, violating 1). If b) that means everyone that knew it found something better, so no loss either. Just learn enough about a technology to apply(unless specializing into tech field, e.g. security). FYI, cloud computing is almost as old as the internet ;)
+5. Study ideas, apply technologies. The hottest thing on the market now a) is going to continue being the hottest thing, b) get chucked out.
+ If a), then well everyone will know it, violating 1). If b) that means everyone that knew it found something better, so no loss either. Just learn enough about a technology to apply(unless specializing into tech field, e.g. security). FYI, cloud computing is almost as old as the internet ;)
 
 6. That which does not exist is for you to create!
 
@@ -360,7 +365,7 @@ Viet -
 
 4. The ultimate goal of science and engineering, including Computer Science & Software Engineering is to reproduce success and best practices so learn to convey your message with simplicity
 
-Minqi -[http://ymichael.github.io/projectintern](http://ymichael.github.io/projectintern) on overseas internship. Also, it has been mentioned before but again, learn and *use* a version control system. I have seen people spending 1 year as a computing student, yet still refusing to learn, using Dropbox to sync code with their teammates. 
+Minqi - [http://ymichael.github.io/projectintern](http://ymichael.github.io/projectintern) on overseas internship. Also, it has been mentioned before but again, learn and *use* a version control system. I have seen people spending 1 year as a computing student, yet still refusing to learn, using Dropbox to sync code with their teammates. 
 
 Dat - All of this may seem really overwhelming, if you’re just starting out. Just make the best out of your time in NUS (and SoC especially). You’re not alone.
 
@@ -368,11 +373,12 @@ Keir - If you take the CS1101S mod, skip the last two missions. lol. You can get
 
 Evan -
 
-Functional programming is kind of hot nowadays. New programming languages such as Swift and Rust has several features borrowed / inspired from functional language. Even Java 8 and C++11 added things like lambda.It is quite sad that you can graduate from NUS without learning those things.
+Functional programming is kind of hot nowadays. New programming languages such as Swift and Rust has several features borrowed / inspired from functional language. Even Java 8 and C++11 added things like lambda.
+It is quite sad that you can graduate from NUS without learning those things.
 
-If you did not take CS1101S, it’s fine, you can catch up on those concepts by taking CS2104 or learning it on your own.You can always go beyond maps and folds and pick Haskell.
+If you did not take CS1101S, it’s fine, you can catch up on those concepts by taking CS2104 or learning it on your own.
+You can always go beyond maps and folds and pick Haskell.
 
 Johannes - If you are willing to take risks, test your limits, and put in the hard work you need to, you will find friends and mentors glad to guide you, help you, and accompany you. 
 
 Sleeper: take your time, but remember to take the time. Plan your days and buffer everything. Best part about buffers is that if you don't need them, you have instant free time. Also, cap isn't everything.(lucky freshies)
-
