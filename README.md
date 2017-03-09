@@ -210,6 +210,8 @@ Colloquial book titles are used where it’s famous enough to warrant so. For in
 
 * [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 
+* [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137) by Martin Fowler (Ruby edition of *the* book that introduced 'Refactoring' to the world).
+
 * [Hackers & Painters](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/0596006624) by Paul Graham
 
 * [Clean Coder](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) by Uncle Bob
