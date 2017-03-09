@@ -156,13 +156,13 @@ Know the rules first, then see how you can break them.
 
 * **CS1101S Programming Methodology** (Functional Programming Paradigm )
 
-* **CS3216 Software Development on Evolving Platforms **‘the Facebook module’: Multi-disciplinary approach to building web apps. Crazy workload (you’re expected to pick up new technologies and run with them in a week). Loads of fun. Not only for programmers.
+* **CS3216 Software Development on Evolving Platforms** ‘the Facebook module’: Multi-disciplinary approach to building web apps. Crazy workload (you’re expected to pick up new technologies and run with them in a week). Loads of fun. Not only for programmers.
 
-* **CS3217 Software Engineering on Modern Application Platforms **- ‘the iPad module’: CS3216’s twisted cousin. Programmers only. Highly interesting (and time-consuming) module where you will have to code a few iOS apps within a semester.
+* **CS3217 Software Engineering on Modern Application Platforms** - ‘the iPad module’: CS3216’s twisted cousin. Programmers only. Highly interesting (and time-consuming) module where you will have to code a few iOS apps within a semester.
 
 * **CS3233 Competitive Programming:** An extremely tough module, suitable for anyone thinking of challenging themselves.
 
-* **CS2104 Programming Languages Concepts **- an excuse to learn Assembly, C, Prolog, Python, Ruby, Haskell, OCaml, Scheme and Oz in a single semester.
+* **CS2104 Programming Languages Concepts** - an excuse to learn Assembly, C, Prolog, Python, Ruby, Haskell, OCaml, Scheme and Oz in a single semester.
 
 * **CP3108B** (Mozilla) - Independent Project module. "The Mozilla module". Want to contribute to open source projects but don’t know where to start? Join it. ;)
 
@@ -184,7 +184,7 @@ Colloquial book titles are used where it’s famous enough to warrant so. For in
 
 * [CLRS](http://en.wikipedia.org/wiki/Introduction_to_Algorithms) (*the* book on algorithms)
 
-* [Modern Operating Systems](http://www.amazon.com/Modern-Operating-Systems-3rd-Edition/dp/0136006639) (*the *book on Operating Systems)
+* [Modern Operating Systems](http://www.amazon.com/Modern-Operating-Systems-3rd-Edition/dp/0136006639) (*the* book on Operating Systems)
 
 * [The Dragon Book](http://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) (*the* book on compilers)
 
@@ -238,7 +238,7 @@ Not necessarily about programming/computing.
 
 Some recently famous; others highly influential.
 
-* [Growing a Language,](http://www.youtube.com/watch?v=_ahvzDzKdB0) Guy Steele (wait till 8:43 minutes before you understand what he’s doing).
+* [Growing a Language](http://www.youtube.com/watch?v=_ahvzDzKdB0), Guy Steele (wait till 8:43 minutes before you understand what he’s doing).
 
 * [What We Actually Know About Software Development, and Why We Believe It’s True](http://vimeo.com/9270320) Greg Wilson (*how* to think about software engineering)
 
