@@ -126,7 +126,7 @@ Learn and use version control. Thank us later.
 
 Set up a [http://github.com](http://github.com) account. ‘Follow’ a few famous [programmers](http://www.quora.com/GitHub/Who-are-the-best-coders-to-follow-on-GitHub). Start a few projects and show them off there. Also, don’t forget to give back to the community. Contribute to popular open source projects by sending in pull requests on github. Some awesome open source NUS projects include 
 
-* NUSMods: [https://github.com/ahbeng/NUSMods](https://github.com/ahbeng/NUSMods)
+* NUSMods: [https://github.com/nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
 
 * MODIVLE: [https://github.com/ymichael/modivle](https://github.com/ymichael/modivle)
 
@@ -156,7 +156,7 @@ Know the rules first, then see how you can break them.
 
 * **CS1101S Programming Methodology** (Functional Programming Paradigm )
 
-* **CS3216 Software Development on Evolving Platforms** ‘the Facebook module’: Multi-disciplinary approach to building web apps. Crazy workload (you’re expected to pick up new technologies and run with them in a week). Loads of fun. Not only for programmers.
+* **CS3216 Software Product Engineering for Digital Markets** ‘the Facebook module’: Multi-disciplinary approach to building web apps. Crazy workload (you’re expected to pick up new technologies and run with them in a week). Loads of fun. Not only for programmers.
 
 * **CS3217 Software Engineering on Modern Application Platforms** - ‘the iPad module’: CS3216’s twisted cousin. Programmers only. Highly interesting (and time-consuming) module where you will have to code a few iOS apps within a semester.
 
@@ -170,7 +170,7 @@ Know the rules first, then see how you can break them.
 
 * **CS5231 Systems security**. You rewrite IP Tables as an assignment ;)
 
-You can also browse [this (old) list of high-level SoC modules](http://www.comp.nus.edu.sg/undergraduates/cs_cs_focus.html). As a general rule, the higher level specialized modules tend to be more interesting (pending good lecturers). Try and get past the level-2000s so you can get at the level 4000s and above.
+You can also browse [this list of high-level SoC modules organzied into focus areas](http://www.comp.nus.edu.sg/programmes/ug/focus/). As a general rule, the higher level specialized modules tend to be more interesting (pending good lecturers). Try and get past the level-2000s so you can get at the level 4000s and above.
 
 ## Famous Books
 
@@ -217,6 +217,8 @@ Colloquial book titles are used where it’s famous enough to warrant so. For in
 * [Little Book of Semaphores](http://greenteapress.com/semaphores/) (Good for OS and parallel programming modules)
 
 * [The Performance of Open Source Applications](http://www.aosabook.org/en/index.html)
+
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 
 ### List of free programming ebooks -
 
@@ -384,3 +386,5 @@ You can always go beyond maps and folds and pick Haskell.
 Johannes - If you are willing to take risks, test your limits, and put in the hard work you need to, you will find friends and mentors glad to guide you, help you, and accompany you. 
 
 Sleeper: take your time, but remember to take the time. Plan your days and buffer everything. Best part about buffers is that if you don't need them, you have instant free time. Also, cap isn't everything.(lucky freshies)
+
+Zhu Liang: Networking is actually quite important, actively meet with new people, not just your peers from SoC.
