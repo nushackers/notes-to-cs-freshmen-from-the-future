@@ -1,5 +1,7 @@
 # Notes to (NUS) Computer Science Freshmen, From The Future 
 
+Ported over from the [original document](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing).
+
 ## Intro
 
 Early into the AY12/13 academic year, Prof Tay Yong Chiang organized a supper for Computer Science freshmen at Tembusu College. The bunch of seniors who were gathered there put together a document for NUS computing freshmen. This is that document.
@@ -40,7 +42,7 @@ The sites from which the above articles are available are generally good places 
 
 * [http://news.ycombinator.com/](http://news.ycombinator.com/) - Hacker News; just about everyone in computing reads it. 
 
-**Computer scientists or Programmers that you should know**
+## Computer scientists or Programmers that you should know
 
 Because we *just* have to have some hero worship, don't we? ;-) 
 
@@ -54,7 +56,7 @@ Because we *just* have to have some hero worship, don't we? ;-)
 
 [http://www.quora.com/Respected-Software-Engineers/Who-are-some-of-the-best-programmers-in-the-world](http://www.quora.com/Respected-Software-Engineers/Who-are-some-of-the-best-programmers-in-the-world)
 
-**(Informal) Checklists**
+## (Informal) Checklists
 
 Use the checklist below to get a rough measure of your knowledge.
 
@@ -62,7 +64,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
 ## Introductions to various specializations
 
-**Graduate School**
+### Graduate School
 
 * Applying to Ph.D. Programs in Computer Science -[ http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
@@ -70,17 +72,17 @@ Use the checklist below to get a rough measure of your knowledge.
 
 * Ph.D. Grind -[ http://pgbovine.net/PhD-memoir-epilogue.htm](http://pgbovine.net/PhD-memoir-epilogue.htm)
 
-**Programming Languages**
+### Programming Languages
 
 * Programming Languages Research -[ http://tagide.com/blog/2012/03/research-in-programming-languages/](http://tagide.com/blog/2012/03/research-in-programming-languages/)
 
 * Rich Programmer Food (Yegge on compilers) -[ http://steve-yegge.blogspot.sg/2007/06/rich-programmer-food.html](http://steve-yegge.blogspot.sg/2007/06/rich-programmer-food.html)
 
-**Game Programming**
+### Game Programming
 
 * So you want to be a video game programmer? -[ ](http://all-things-andy-gavin.com/2011/08/29/video-game-programmer-why/)[http://all-things-andy-gavin.com/2011/08/29/video-game-program](http://all-things-andy-gavin.com/2011/08/29/video-game-program)[mer-why/](http://all-things-andy-gavin.com/2011/08/29/video-game-programmer-why/)
 
-**Learning Unix**
+### Learning Unix
 
 If you have a Mac, start playing around with your terminal.
 
