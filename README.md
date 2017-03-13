@@ -2,6 +2,8 @@
 
 Ported over from the [original document](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing).
 
+The mailing list announcement that started it all (23 August 2012): [Link to thread](https://groups.google.com/forum/#!topic/nushackers/G7ASenbqTNU)
+
 ## Intro
 
 Early into the AY12/13 academic year, Prof Tay Yong Chiang organized a supper for Computer Science freshmen at Tembusu College. The bunch of seniors who were gathered there put together a document for NUS computing freshmen. This is that document.
