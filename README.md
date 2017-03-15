@@ -104,11 +104,9 @@ Unix is **required knowledge**. As is familiarity with the shell (figure out wha
 
 Learn an editor - either emacs or vim. They will save you a lot of time when you’re coding for CS2105. Actually, in pretty much everything else in life, as well.
 
-* **Vim**- to get started, run vimtutor from the terminal, read[this](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/), [this](http://rc3.org/2012/05/12/the-grammar-of-vim/) and [this](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/), and then *zhng* your Vim according to [this](http://stevelosh.com/blog/2010/09/coming-home-to-vim/).
+* **Vim**- to get started, run vimtutor from the terminal, read [this](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/), [this](http://rc3.org/2012/05/12/the-grammar-of-vim/) and [this](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/), and then *zhng* your Vim according to [this](http://stevelosh.com/blog/2010/09/coming-home-to-vim/).
 
-* **Emacs**- Get emacs for your platform from the[GNU site](http://www.gnu.org/software/emacs/). Or google for more specific instructions for your platform.
-
-It’s always good to [RTFM](http://www.gnu.org/software/emacs/manual/), and to go through an [emacs lisp intro](http://www.gnu.org/software/emacs/emacs-lisp-intro/). Or get a quick head start with the [emacs starter kit](https://github.com/technomancy/emacs-starter-kit). pew, pew, pew [smoking all the other editors ;) ]
+* **Emacs**- Get emacs for your platform from the[GNU site](http://www.gnu.org/software/emacs/). Or google for more specific instructions for your platform. It’s always good to [RTFM](http://www.gnu.org/software/emacs/manual/), and to go through an [emacs lisp intro](http://www.gnu.org/software/emacs/emacs-lisp-intro/). Or get a quick head start with the [emacs starter kit](https://github.com/technomancy/emacs-starter-kit). pew, pew, pew [smoking all the other editors ;) ]
 
 Know some regex-fu.
 
