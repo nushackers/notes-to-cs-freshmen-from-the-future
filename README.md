@@ -170,6 +170,8 @@ Know the rules first, then see how you can break them.
 
 * **CS5231 Systems security**. You rewrite IP Tables as an assignment ;)
 
+* [**CP2106: Independent Software Engineering Project**](https://orbital.comp.nus.edu.sg/) (Earn module credits in summer while working on your very own project! If you're not thinking of doing an internship and are free in your first summer, this is a very worthwhile module to embark on)
+
 You can also browse [this list of high-level SoC modules organized into focus areas](http://www.comp.nus.edu.sg/programmes/ug/focus/). As a general rule, the higher level specialized modules tend to be more interesting (pending good lecturers). Try and get past the level-2000s so you can get at the level 4000s and above.
 
 ## Famous Books
