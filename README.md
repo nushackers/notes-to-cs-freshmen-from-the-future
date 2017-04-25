@@ -392,3 +392,9 @@ Johannes - If you are willing to take risks, test your limits, and put in the ha
 Sleeper: take your time, but remember to take the time. Plan your days and buffer everything. Best part about buffers is that if you don't need them, you have instant free time. Also, cap isn't everything.(lucky freshies)
 
 Zhu Liang: Networking is actually quite important, actively meet with new people, not just your peers from SoC.
+
+Jing Rong: 
+
+1. Make sure you get an internship during your college years! Even Y1 Summer isn't too early. Try your luck out there - there are companies willing to take you on as long as you display the hunger to learn. Also - NOC is a great learning experience! You get to go to work at a startup (probably an overseas one!), take on responsibility and autonomy for your projects, attend tech meetups, go to hackathons, etc. It's pretty life changing.
+2. Work on projects you like outside of school work. Doesn't even have to be useful or original. Just make something you like, and learn something new whenever you have pockets of free time
+3. Go to Hackathons - Not to win, but to pick up a new skill/work on something challenging. Of course freebies and prizes are great to have :)
