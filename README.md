@@ -287,13 +287,13 @@ Some recently famous; others highly influential.
 
 ## Seriously Good CS Lectures:
 
-* [CS Lectures from Stanford](http://see.stanford.edu/see/courses.aspx), and especially:
+* [CS Lectures from Stanford](https://see.stanford.edu/course/), and especially:
 
-    * [Programming Methodology](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
+    * [Programming Methodology](https://see.stanford.edu/Course/CS106A)
 
-    * [Programming Abstractions](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e)
+    * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
 
-    * [Programming Pa](http://see.stanford.edu/see/courses.aspx)[radigms](http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
+    * [Programming Pa](https://see.stanford.edu/Course/CS107)
 
     * These lectures will really push you. And if you are up for it do the assignments too.
 
