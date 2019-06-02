@@ -299,7 +299,7 @@ Some recently famous; others highly influential.
 
 Programming Languages Lectures
 
-* Douglas Crockford -[ Crockford on Javascript](http://yuiblog.com/crockford/)
+* Douglas Crockford -[ Crockford on Javascript](https://www.youtube.com/watch?v=JxAXlJEmNMg)
 
 * Rich Hickey -[ Series on Clojure Design and Thinking about Programming Languages](http://www.infoq.com/author/Rich-Hickey;jsessionid=FDE428234E8B76D971CA0984D7A0A194)
 
