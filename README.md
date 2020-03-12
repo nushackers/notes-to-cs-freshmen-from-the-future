@@ -97,7 +97,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
     * [CentOS](https://www.centos.org/) (Most battle tested, loved by sysadmins who treasure their sleep)
 
-* Unix is **required knowledge**. As is familiarity with the shell (figure out what that means ;-) (Also, figure out what `sudo rm -rf /` means *before trying it out*) (And `:() { : | : };:` )
+* Unix is **required knowledge**. As is familiarity with the shell (figure out what that means ;-) (Also, figure out what `sudo rm -rf /` means *before trying it out*) (And `:() { : | : & };:` )
 
 * Learn an editor - either emacs or vim. They will save you a lot of time when you’re coding for CS2105. Actually, in pretty much everything else in life, as well.
 
