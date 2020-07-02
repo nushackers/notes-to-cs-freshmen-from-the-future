@@ -151,10 +151,6 @@ Use the checklist below to get a rough measure of your knowledge.
         * Some awesome open source NUS projects include: 
             * NUSMods: [https://github.com/nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
 
-            * MODIVLE: [https://github.com/ymichael/modivle](https://github.com/ymichael/modivle)
-
-            * CORS Planner: [https://github.com/zhuochun/cors-planner](https://github.com/zhuochun/cors-planner)
-
 * On making things...
 
     * Consider starting an open source project.
