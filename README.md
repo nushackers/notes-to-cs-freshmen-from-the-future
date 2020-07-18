@@ -109,9 +109,13 @@ Use the checklist below to get a rough measure of your knowledge.
         * Finally, *zhng* your Vim according to [Coming Home to Vim](http://stevelosh.com/blog/2010/09/coming-home-to-vim/).
 
    * **Emacs**
-       * Get emacs for your platform from the[GNU site](http://www.gnu.org/software/emacs/). 
+       * Get emacs for your platform from the [GNU site](http://www.gnu.org/software/emacs/). 
        * Or google for more specific instructions for your platform. It’s always good to [RTFM](http://www.gnu.org/software/emacs/manual/), and to go through an [emacs lisp intro](http://www.gnu.org/software/emacs/emacs-lisp-intro/). 
-       * Or get a quick head start with the [emacs starter kit](https://github.com/technomancy/emacs-starter-kit). 
+       * Or get a quick head start with Emacs starter kits, in order of light to heavy:
+         * [emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit)
+         * [Prelude](https://github.com/bbatsov/prelude)
+         * [Doom Emacs](https://github.com/hlissner/doom-emacs)
+         * [Spacemacs](https://github.com/syl20bnr/spacemacs)
 
 * :bomb: :gun: Pew! Smoking all the other editors :wink:
 
