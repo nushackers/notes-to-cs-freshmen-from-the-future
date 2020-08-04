@@ -293,7 +293,7 @@ Some recently famous; others highly influential.
 
     * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
 
-    * [Programming Pa](https://see.stanford.edu/Course/CS107)
+    * [Programming Paradigms](https://see.stanford.edu/Course/CS107)
 
     * These lectures will really push you. And if you are up for it do the assignments too.
 
