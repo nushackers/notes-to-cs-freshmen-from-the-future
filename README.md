@@ -10,6 +10,7 @@ Early into the AY12/13 academic year, Prof Tay Yong Chiang organized a supper fo
 
 Feel free to create a pull request to edit or add to it, and share it with other freshmen you know.
 
+Also, feel free to view/submit a piece of advice over [here](https://tlylt.github.io/from-the-future/).
 ## Links
 
 You’ll probably want to start with some general advice written for undergraduates/beginners in Computing. Read:	
@@ -305,7 +306,7 @@ Programming Languages Lectures
 
 ## Advice from seniors
 
-*Seniors - submit a pull request please!*
+*Seniors - submit your advice over [here](https://tlylt.github.io/from-the-future/) or a pull request please!*
 
 **Ali** 
 
