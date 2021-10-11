@@ -28,6 +28,8 @@ You’ll probably want to start with some general advice written for undergradua
 
 * [4 Steps to Google (Without a Degree)](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 
+* [What advice does Thomas Cormen have for a computer science undergrad in his freshman year?](https://qr.ae/pGVIdr)
+
 The sites from which the above articles are available are generally good places to read from. Also, follow some Computer Science blogs and sites:
 
 * [Paul Graham's Essays](http://paulgraham.com/articles.html) - Paul Graham leans towards startups but his earlier essays on programming, technology and work are worth reading. Particularly influential: [Python Paradox](http://paulgraham.com/pypar.html) and [Maker’s Schedule, Manager’s Schedule](http://www.paulgraham.com/makersschedule.html)
@@ -43,6 +45,14 @@ The sites from which the above articles are available are generally good places 
 * [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Group blog that tracks innovations in Programming Languages research
 
 * [Hacker News](http://news.ycombinator.com/) - Hacker News; just about everyone in computing reads it. 
+
+* [80000 Hours](https://80000hours.org) - The one-stop shop to explore the ideas around Effective Altruism: using your career to do good. Even if you are not interested in Effective Altruism, there are a lot of resources to guide you in the process of career planning. You are likely to keep coming back to these ideas through your career journey.
+
+* [Farnam Street Blog](https://fs.blog) - A blog maintained by a former Canadian spy who has summarized the kinds of mental models involved in learning and decision making.
+
+* [Study Hacks Blog](https://www.calnewport.com/blog/) - Cal Newport, a professor at the Georgetown University and a go-to productivity guru, provides great tips to get the most juice out of your study time. Applies to technical and non-technical courses alike.
+
+* [Scott Young's Blog](https://www.scotthyoung.com/) - Scott Young is famous for his MIT challenge: learning the 4-year undergrad curriculum in 1 year. Of course, the curriculum he followed is not an exact mirror of the actual curriculum and there's some scope for doubt with regards to the evaluation for some of the courses, but the main point is that you will learn better through dedicated practice: pushing through a level of ability that is slightly higher than your current level with consistency.
 
 ## Computer scientists or Programmers that you should know
 
@@ -264,6 +274,16 @@ Not necessarily about programming/computing.
 * [Godel, Escher, Bach](http://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
 
 * [Delivering Happiness](http://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446563048)
+
+* [So Good They Can't Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B0076DDBJ6)
+
+* [How To Win At College](https://www.amazon.com/How-Win-College-Surprising-Countrys-ebook/dp/B000FCK2XS)
+
+* [How To Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/)
+
+* [Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck-ebook/dp/B000FCKPHG/)
+
+* [Deep Human](https://www.amazon.com/Deep-Human-Practical-Superskills-Success-ebook/dp/B082LYTG94/)  
 
 ## Good talks
 
@@ -497,3 +517,35 @@ Networking is actually quite important, actively meet with new people, not just 
 2. Work on projects you like outside of school work. Doesn't even have to be useful or original. Just make something you like, and learn something new whenever you have pockets of free time
 
 3. Go to Hackathons - Not to win, but to pick up a new skill/work on something challenging. Of course freebies and prizes are great to have :)
+
+**Aadit Kamat**
+
+Tons of great advice here, just filling in what I've come to realize post-graduation:
+
+1. **Invest in study strategies.** As most people here have mentioned, CAP is not all-important. However, the process of learning how to learn (metacognition) is essential no matter what your career is, as long as you are a [knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker). Cal Newport has a lot of content geared specifically towards knowledge workers. One of his blog posts is often [mentioned by Prof Ben](https://www.quora.com/How-do-top-students-study) in the context of the study habits of top students. The gist of it is you have to be consistent when you are learning and chunk information in spaced-out study sessions, rather than cram last minute. 
+
+2. **Start a blog.** A lot of blogs have been referenced in this document and there is a reason why many knowledge workers start a blog in the first place: writing helps consolidate knowledge. There are a lot of resources mentioned here, but the only way you would be able to build a knowledge base around the topics of your interest is if you make the effort to recreate it for yourself. To become a better writer, you have to read more. However, writing helps you avoid the "fluency trap" created by passively consuming information: you are forced to summarize what you have learned by putting it in your own words. This way you identify the gaps in knowledge and seek to redress them.
+
+A great MOOC to learn the nuances of writing is [Writing for the Sciences](https://www.coursera.org/learn/sciwrite/home/welcome), offered by Stanford University. While the name suggests that the techniques apply specifically to scientific literature, she touches upon a lot of the basics that make your writing effective. It may seem a little redundant, especially if you have taken a lot of classes that involve writing before, but I think it's good to recapitulate upon these basics. 
+
+Essentially, you have to break down writing into three processes that must be independent: 1) Prewriting, 2) Drafting, and 3) Revising. It's usually the first part that takes the most time because you are gathering the relevant information (researching) you need for the writing. Once you do that, you just need to combine these using complete sentences during the drafting process. You only worry about the nitty-gritty details like grammar, typos, and the overall flow of the written piece while revising your drafts. Edit yourself, read the drafts out, and use [Grammarly](https://www.grammarly.com/) to help you proofread one last time if you can't get others to do so.
+
+3. **Create an effective organizational system for your notes.** This is related to the first two points. The art of note-taking is essential for making the best use of your time studying and writing. Instead of passively reading lecture slides and textbooks or passively watching videos, you are spending the time capturing the information that you have learned from these reference materials. The notes can themselves be revised by referring to the reference materials when needed. In the end, you have to only go through the notes when you are studying for the exams. 
+
+Most exams at SoC allow a cheatsheet. Even if they don't, you should anyways create one because the process of creating the cheatsheet is more useful for learning than the cheatsheet itself. The only way to gain knowledge is by recreating the knowledge and making mistakes along the way.
+
+One of the most effective note-taking systems that I have come across is [the Zettlekasten, German for "slip box"](https://zettelkasten.de/posts/overview/). As a researcher, you can see almost immediately why it is effective: you are making connections between the different topics covered in the literature review rather than going through them sequentially. This applies generally to the processes of studying and writing as well because they rely heavily on research.
+
+In the Zettlekasten, you are splitting up the notes into three categories: 1) Fleeting notes, which are like Tweets: you only pen down your thoughts based on the information you have gathered 2) Literature notes, which are the takeaways from the literature summarized in your own words and 3) Permanent notes, which are formed by combining Fleeting and Literature notes and become the basis for your first drafts. 
+
+I use [Obsidian](https://obsidian.md) to organize my Zettlekasten because I think that it was created expressly for this purpose, but feel free to use any other tool of your choice. Again, don't worry too much about the tool, it's the process that is more important.
+
+4. **Connect with your professors.** It is easier, in my opinion, to connect with industry professionals due to a plethora of social media tools at your disposal but it is harder to establish a good relationship with your professor outside the classroom. The role of university professors is not just to teach, they often conduct cutting-edge research and are subject matter experts in their respective fields. You can tap into their reservoirs of wisdom; they can become your mentors and guides. That is why it is also important that you pick the right classes to avoid [the wrong kinds of professors if you can](). This might sound self-serving, but do make sure that you get reference letters from professors in the classes you have done well or where you have helped them out. You never know when they would come in handy.
+
+5. **Cut down on social media time.** Some, like Cal Newport, advocate [quitting social media altogether](https://www.calnewport.com/blog/2016/09/21/quit-social-media/), but that may seem a little too extreme. I believe that you can harness the power of social media in a way that serves you better, especially if you don't have strong networks, to begin with. Rather than focusing on information consumption, focus on how you can use it to market yourself. This shift in mindset from consumption to production is essential for learning. Again it's quite easy to fall into the trap of obsessing over the stats, but what's most important at the end of the day is sharing ideas and getting feedback.
+
+To cut back on the consumption, you can install the [news-feed-eradicator extension](https://chrome.google.com/webstore/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) on your browser. You can also look at other interventions suggested by the [Centre for Humane Technologies](https://www.humanetech.com/take-control).
+
+6. Look at college as a way to build career capital. You may end up pursuing a CS-related career, you may not. But what's important is you are making connections, learning new skills, and finding ways to grow as a person. You can then leverage this capital to create opportunities for yourself, crafting the kind of career you like in the long run.
+
+7. Don't compare yourself. It's easy to get carried away by peer pressure, especially when you are surrounded by the talented folks at SoC. Just because others are gunning for FAANG internships, doesn't mean that you should be. Your journey is your own to undertake. Try to see your peers as companions rather than competition. This is easier said than done when you are pitted against each other by the bell curve, but there are honestly more ways in which they can help you than hurt you.
