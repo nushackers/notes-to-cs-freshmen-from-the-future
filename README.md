@@ -24,7 +24,7 @@ You’ll probably want to start with some general advice written for undergradua
 
 * [Paul Graham: What You Wish You’d Known](http://www.paulgraham.com/hs.html)
 
-* [Alex Payne: Letter To A Young Programmer Considering A Startup](http://al3x.net/2013/05/23/letter-to-a-young-programmer.html)
+* [Alex Payne: Letter To A Young Programmer Considering A Startup](https://www.al3x.net/blog/2013/05/23/letter-to-a-young-programmer-considering-a-startup)
 
 * [4 Steps to Google (Without a Degree)](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 
