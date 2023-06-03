@@ -5,10 +5,13 @@
   <br>
 </h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/nushackers/notes-to-cs-freshmen-from-the-future?style=for-the-badge&logo=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/nushackers/notes-to-cs-freshmen-from-the-future?color=orange&style=for-the-badge&logo=github)
+
+</div>
 
 Ported over from the [original document](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing).
 
