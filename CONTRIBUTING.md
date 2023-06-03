@@ -38,5 +38,31 @@ In other words:
 - Create a new fork of the document.
 - In your own fork, edit the document and commit it.
     - If you're unfamiliar with markdown, try [this](https://www.markdowntutorial.com).
-- Create a Pull Request (PR) to the main document.
+- Create a Pull Request (PR) to the main document. See the Pull Request Checklist below.
 - We'll try to approve it as soon as possible!
+
+## Pull Request Checklist
+
+### For adding a new section/list
+- [ ] Make sure that the section is relevant to the document. If you're not sure, feel free to 
+add an issue to ask us.
+- [ ] Make sure that the section is not already covered in the document.
+- [ ] Make sure there is no grammatical errors.
+- [ ] You should explain why you think the section is great.
+
+### If you're adding on to a section/list that already exists
+- [ ] Make sure that the item you're adding belongs in the relevant section/list.
+- [ ] Make sure that the item you're adding is not already covered in the document.
+- [ ] Make sure there is no grammatical errors.
+- [ ] You should briefly explain
+    - [ ] Why you think the item is great
+    - [ ] What relevance it has to the section/list
+(Feel free to leave this out if it is obvious).
+
+### If you're adding general advice and tips
+- [ ] Remember to follow the [Code of Conduct](CODE-OF-CONDUCT.md). We will not approve
+anything that goes against the Code of Conduct, or is submitted in bad faith.
+- [ ] Make sure there is no grammatical errors.
+- [ ] There is no specific topic or format you have to follow, but we recommend you to
+try and give advice on certain topics or areas that other contributors might
+have missed out on.
