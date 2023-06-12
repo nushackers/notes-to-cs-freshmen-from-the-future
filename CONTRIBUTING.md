@@ -49,7 +49,9 @@ anything that goes against the Code of Conduct, or is submitted in bad faith.
 - [ ] Make sure there is no grammatical errors.
 - [ ] There is no specific topic or format you have to follow, but we recommend you to
 try and give advice on certain topics or areas that other contributors might
-have missed out on.
+have missed out on. (It doesn't just have to be about school life, anything from general
+programming tips, career advice, life advice that you live by and think would be helpful
+works!)
 
 ### If you want to suggest a new section/list (e.g. favourite programming languages to learn, etc.)
 - [ ] Make sure that the section is relevant to the document. If you're not sure, feel free to 
