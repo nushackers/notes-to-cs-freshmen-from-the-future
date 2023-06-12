@@ -41,9 +41,17 @@ In other words:
 - Create a Pull Request (PR) to the main document. See the Pull Request Checklist below.
 - We'll try to approve it as soon as possible!
 
-## Pull Request Checklist
+## I'm ready to contribute! How do I start?
 
-### For adding a new section/list
+### If you're giving general advice and tips to freshmen
+- [ ] Remember to follow the [Code of Conduct](CODE-OF-CONDUCT.md). We will not approve
+anything that goes against the Code of Conduct, or is submitted in bad faith.
+- [ ] Make sure there is no grammatical errors.
+- [ ] There is no specific topic or format you have to follow, but we recommend you to
+try and give advice on certain topics or areas that other contributors might
+have missed out on.
+
+### If you want to suggest a new section/list (e.g. favourite programming languages to learn, etc.)
 - [ ] Make sure that the section is relevant to the document. If you're not sure, feel free to 
 add an issue to ask us.
 - [ ] Make sure that the section is not already covered in the document.
@@ -58,11 +66,3 @@ add an issue to ask us.
     - [ ] Why you think the item is great
     - [ ] What relevance it has to the section/list
 (Feel free to leave this out if it is obvious).
-
-### If you're adding general advice and tips
-- [ ] Remember to follow the [Code of Conduct](CODE-OF-CONDUCT.md). We will not approve
-anything that goes against the Code of Conduct, or is submitted in bad faith.
-- [ ] Make sure there is no grammatical errors.
-- [ ] There is no specific topic or format you have to follow, but we recommend you to
-try and give advice on certain topics or areas that other contributors might
-have missed out on.
