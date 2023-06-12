@@ -27,21 +27,15 @@ As much as possible, we want to adhere to the the overarching ideas in the
 [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
 In other words:
-- It's curation, not collection. - We want to avoid the document from being to lengthy or diluted.
+- It's curation, not collection. - We want to avoid the document from being too lengthy or diluted.
 - Research if the stuff you're including is actually *awesome*. - Only put stuff in that you or another contributor can **personally** recommend.
 - You should rather leave stuff out than include too much. - If you're unsure, ask someone else, or comment it in the PR.
 - Comment on why something is *awesome* (Not relevant for advice) - If you're recommending a book, or a lecture, tell us why you think it's great.
 - Pay attention to grammar. - Ensure your stuff is grammatically correct, typo-free and has no Markdown formatting errors.
 
-## How to contribute
-
-- Create a new fork of the document.
-- In your own fork, edit the document and commit it.
-    - If you're unfamiliar with markdown, try [this](https://www.markdowntutorial.com).
-- Create a Pull Request (PR) to the main document. See the Pull Request Checklist below.
-- We'll try to approve it as soon as possible!
-
 ## I'm ready to contribute! How do I start?
+
+**Make sure your content follows the general principles in [Contributing to the document](#contributing-to-the-document)**
 
 ### If you're giving general advice and tips to freshmen
 - [ ] Remember to follow the [Code of Conduct](CODE-OF-CONDUCT.md). We will not approve
@@ -68,3 +62,11 @@ add an issue to ask us.
     - [ ] Why you think the item is great
     - [ ] What relevance it has to the section/list
 (Feel free to leave this out if it is obvious).
+
+## How to contribute
+
+- Create a new fork of the document.
+- In your own fork, edit the document and commit it.
+    - If you're unfamiliar with markdown, try [this](https://www.markdowntutorial.com).
+- Create a Pull Request (PR) to the main document. See the Pull Request Checklist below.
+- We'll try to approve it as soon as possible!
