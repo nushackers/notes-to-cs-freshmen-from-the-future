@@ -40,7 +40,7 @@ In other words:
 ### If you're giving general advice and tips to freshmen
 - [ ] Remember to follow the [Code of Conduct](CODE-OF-CONDUCT.md). We will not approve
 anything that goes against the Code of Conduct, or is submitted in bad faith.
-- [ ] Make sure there is no grammatical errors.
+- [ ] Make sure there are no grammatical errors.
 - [ ] There is no specific topic or format you have to follow, but we recommend you to
 try and give advice on certain topics or areas that other contributors might
 have missed out on. (It doesn't just have to be about school life, anything from general
