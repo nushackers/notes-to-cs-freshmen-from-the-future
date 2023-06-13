@@ -55,7 +55,7 @@ add an issue to ask us.
 ### If you're adding on to a section/list that already exists
 - [ ] Make sure that the item you're adding belongs in the relevant section/list.
 - [ ] Make sure that the item you're adding is not already covered in the document.
-- [ ] Make sure there is no grammatical errors.
+- [ ] Make sure there are no grammatical errors.
 - [ ] You should briefly explain
     - [ ] Why you think the item is great
     - [ ] What relevance it has to the section/list
