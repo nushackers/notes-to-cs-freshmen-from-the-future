@@ -49,7 +49,7 @@ have missed out on. It doesn't have to be about school life - anything useful, f
 - [ ] Make sure that the section is relevant to the document. If you're not sure, feel free to 
 add an issue to ask us.
 - [ ] Make sure that the section is not already covered in the document.
-- [ ] Make sure there is no grammatical errors.
+- [ ] Make sure there are no grammatical errors.
 - [ ] You should explain why you think the section is great.
 
 ### If you're adding on to a section/list that already exists
