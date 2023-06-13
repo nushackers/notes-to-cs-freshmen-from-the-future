@@ -69,4 +69,4 @@ add an issue to ask us.
 - In your own fork, edit the document and commit it.
     - If you're unfamiliar with markdown, try [this](https://www.markdowntutorial.com).
 - Create a Pull Request (PR) to the main document. See the Pull Request Checklist below.
-- We'll try to approve it as soon as possible!
+- We'll try to review it as soon as possible!
