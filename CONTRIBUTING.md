@@ -35,7 +35,7 @@ In other words:
 
 ## I'm ready to contribute! How do I start?
 
-**Make sure your content follows the general principles in [Contributing to the document](#contributing-to-the-document)**
+**Make sure your content follows the general principles in [Contributing to the document](#contributing-to-the-document)**. Follow the checklist, and then submit a [pull request](#how-to-contribute)!
 
 ### If you're giving general advice and tips to freshmen
 - [ ] Remember to follow the [Code of Conduct](CODE-OF-CONDUCT.md). We will not approve
