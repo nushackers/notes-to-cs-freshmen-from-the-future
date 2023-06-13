@@ -1,4 +1,17 @@
-# Notes to (NUS) Computer Science Freshmen, From The Future 
+<h1 align="center">
+  <br>
+  <br>
+    Notes to (NUS) Computer Science Freshmen, From The Future 
+  <br>
+</h1>
+
+<div align="center">
+
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/nushackers/notes-to-cs-freshmen-from-the-future?style=for-the-badge&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/nushackers/notes-to-cs-freshmen-from-the-future?color=orange&style=for-the-badge&logo=github)
+
+</div>
 
 Ported over from the [original document](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing).
 
@@ -9,6 +22,29 @@ The mailing list announcement that started it all (23 August 2012): [Link to thr
 Early into the AY12/13 academic year, Prof Tay Yong Chiang organized a supper for Computer Science freshmen at Tembusu College. The bunch of seniors who were gathered there put together a document for NUS computing freshmen. This is that document.
 
 Feel free to create a pull request to edit or add to it, and share it with other freshmen you know.
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [Links](#links)
+- [Computer scientists or Programmers that you should know](#computer-scientists-or-programmers-that-you-should-know)
+- [(Informal) Checklists](#informal-checklists)
+- [Introductions to various specializations](#introductions-to-various-specializations)
+  - [Graduate School](#graduate-school)
+  - [Programming Languages](#programming-languages)
+  - [Game Programming](#game-programming)
+  - [Learning Unix](#learning-unix)
+- [Learning Stuff](#learning-stuff)
+- [Good/Interesting Courses in SoC](#goodinteresting-courses-in-soc)
+- [Famous Books](#famous-books)
+  - [List of free programming ebooks -](#list-of-free-programming-ebooks--)
+  - [Good books](#good-books)
+- [Good talks](#good-talks)
+- [Seriously Good CS Lectures:](#seriously-good-cs-lectures)
+- [Advice from seniors](#advice-from-seniors)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Links
 
