@@ -585,3 +585,7 @@ To cut back on the consumption, you can install the [news-feed-eradicator extens
 6. Look at college as a way to build career capital. You may end up pursuing a CS-related career, you may not. But what's important is you are making connections, learning new skills, and finding ways to grow as a person. You can then leverage this capital to create opportunities for yourself, crafting the kind of career you like in the long run.
 
 7. Don't compare yourself. It's easy to get carried away by peer pressure, especially when you are surrounded by the talented folks at SoC. Just because others are gunning for FAANG internships, doesn't mean that you should be. Your journey is your own to undertake. Try to see your peers as companions rather than competition. This is easier said than done when you are pitted against each other by the bell curve, but there are honestly more ways in which they can help you than hurt you.
+
+**Yishu**
+
+Meet people. Make friends. Surround yourself with smart people. Everything else will fall into place. Some good advice: [you can move faster than you think](https://patrickcollison.com/fast) and [be willing to look stupid](https://danluu.com/look-stupid/).
