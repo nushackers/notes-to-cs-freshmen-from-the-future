@@ -1,6 +1,9 @@
 name: Markdown Links Check
 # runs every monday at 9 am
 on:
+  push:
+    branches:
+    - master
   schedule:
     - cron: "0 9 * * 1"
 
