@@ -60,7 +60,7 @@ You’ll probably want to start with some general advice written for undergradua
 
 * [Paul Graham: What You Wish You’d Known](http://www.paulgraham.com/hs.html)
 
-* [Alex Payne: Letter To A Young Programmer Considering A Startup](https://www.al3x.net/blog/2013/05/23/letter-to-a-young-programmer-considering-a-startup)
+* [Alex Payne: Letter To A Young Programmer Considering A Startup](https://medium.com/@al3x/letter-to-a-young-programmer-considering-a-startup-81d458e29e19)
 
 * [4 Steps to Google (Without a Degree)](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 
@@ -74,7 +74,7 @@ The sites from which the above articles are available are generally good places 
 
 * [Stevey's Blog Rants](http://steve-yegge.blogspot.sg/) - Mostly entertaining, but there are a few articles that are required reading. In particular, the unofficial guide to getting hired at Google - which even Googlers refer potential hires to - [Get That Job at Google](http://steve-yegge.blogspot.sg/2008/03/get-that-job-at-google.html) and his tour of programming languages [Tour de Babel](https://sites.google.com/site/steveyegge2/tour-de-babel)
 
-* [Coding Horror](http://www.codinghorror.com/blog/) - Generally good, techy posts by one of the founders of Stack Overflow
+* [Coding Horror](https://blog.codinghorror.com/) - Generally good, techy posts by one of the founders of Stack Overflow
 
 * [Scott Aaronson: Shtetl-Optimized](http://www.scottaaronson.com/blog/) - Theoretical Computer Science
 
@@ -106,7 +106,7 @@ Because we *just* have to have some hero worship, don't we? ;-)
 
 Use the checklist below to get a rough measure of your knowledge.
 
-* [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
+* [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
 
 ## Introductions to various specializations
 
@@ -116,7 +116,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
 * [Azuma: So Long, and Thanks for the PhD!](http://www.cs.unc.edu/~azuma/hitch4.html)
 
-* [Phillip Guo: PhD Grind, The Epilogue](http://pgbovine.net/PhD-memoir-epilogue.htm)
+* [Phillip Guo: PhD Grind, The Epilogue](https://ebin.pub/the-phd-grind-a-phd-student-memoir-3.html)
 
 ### Programming Languages
 
@@ -135,7 +135,7 @@ Use the checklist below to get a rough measure of your knowledge.
 * Recommended ones are:
     * [Ubuntu](http://www.ubuntu.com/) (Most user friendly?)
     
-    * [Linux Mint](http://linuxmint.com/)
+    * [Linux Mint](https://linuxmint.com/)
 
     * [Arch Linux](http://www.archlinux.org/) (minimal Linux distro. Good for those who likes to poke around and install stuff on your own. Not newbie friendly.)
 
@@ -156,7 +156,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
    * **Emacs**
        * Get Emacs for your platform from the [GNU site](https://www.gnu.org/software/emacs/). 
-       * Or google for more specific instructions for your platform. It’s always good to [RTFM](http://www.gnu.org/software/emacs/manual/), and to go through an [emacs lisp intro](http://www.gnu.org/software/emacs/emacs-lisp-intro/). 
+       * Or google for more specific instructions for your platform. It’s always good to [RTFM](http://www.gnu.org/software/emacs/manual/), and to go through an [emacs lisp intro](https://www.gnu.org/software/emacs/manual/eintr.html). 
        * Or get a quick head start with Emacs starter kits, in order of light to heavy:
          * [emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit)
          * [Prelude](https://github.com/bbatsov/prelude)
@@ -187,7 +187,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
 * Learn and use version control. Thank us later.
 
-    * For Mercurial - there’s a great [guide](http://hginit.com/) written by Joel Spolsky.
+    * For Mercurial - there’s a great [guide](https://hginit.github.io/) written by Joel Spolsky.
 
     * For Git - read [Pro Git](http://git-scm.com/book) chapters 1-5, and skip chapter 4. Come back and read the rest after you’ve used Git for awhile.
 
@@ -251,7 +251,7 @@ These are books that are widely recognized to be seminal in computing. Worth rea
 
 Colloquial book titles are used where it’s famous enough to warrant so. For instance, when people in CS say ‘CLRS’, they mean ‘Introduction to Algorithms’.
 
-* [SICP](http://mitpress.mit.edu/sicp/) (an introduction to programming that’s pretty much the best out there. *Note: not many people have finished this, though*).
+* [SICP](https://web.mit.edu/6.001/6.037/sicp.pdf) (an introduction to programming that’s pretty much the best out there. *Note: not many people have finished this, though*).
 
 * [The Mythical Man Month](http://en.wikipedia.org/wiki/The_Mythical_Man-Month) (a classic in Software Engineering)
 
@@ -297,9 +297,11 @@ Colloquial book titles are used where it’s famous enough to warrant so. For in
 
 ### List of free programming ebooks -
 
-* [List on Github](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#scheme)
+* [List on Github](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 
-* [List on Stack Overflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
+* [List on Stack Overflow](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926)
+
+* [Dynamic Search Site](https://ebookfoundation.github.io/free-programming-books-search/)
 
 * Contains links to freely available ebooks online. Good for those living on a FnM (Father and Mother) scholarship.
 
@@ -315,7 +317,7 @@ Not necessarily about programming/computing.
 
 * [How To Win At College](https://www.amazon.com/How-Win-College-Surprising-Countrys-ebook/dp/B000FCK2XS)
 
-* [How To Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/)
+* [How To Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5)
 
 * [Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck-ebook/dp/B000FCKPHG/)
 
@@ -327,11 +329,11 @@ Some recently famous; others highly influential.
 
 * [Growing a Language](http://www.youtube.com/watch?v=_ahvzDzKdB0), Guy Steele (wait till 8:43 minutes before you understand what he’s doing).
 
-* [What We Actually Know About Software Development, and Why We Believe It’s True](http://vimeo.com/9270320) Greg Wilson (*how* to think about software engineering)
+* [What We Actually Know About Software Development, and Why We Believe It’s True](https://www.pathlms.com/siam/courses/1043/sections/1284/thumbnail_video_presentations/9981) Greg Wilson (*how* to think about software engineering)
 
 * [Stats that shape your world-view](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html), Hans Rosling (on data-visualization)
 
-* [Inventing from Principle](http://vimeo.com/36579366), Bret Victor (the future of computing interfaces)
+* [Inventing from Principle](https://www.youtube.com/watch?v=PUv66718DII), Bret Victor (the future of computing interfaces)
 
 * Here’s another Bret Victor one, though a bit more abstract: [The Future of Programming](http://www.youtube.com/watch?v=8pTEmbeENF4)
 
@@ -403,7 +405,7 @@ Be brave. Read, read and read. Read widely. Don't just read about computer scien
 
 Learn at least a new language every year (Or learn [7 Languages in 7 Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks)). 
 
-Make sure the language messes with the way you normally think about programming. [Alan Perlis](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html) once said: "A *language* that doesn't affect the way you *think* about *programming*, is not *worth* knowing"
+Make sure the language messes with the way you normally think about programming. [Alan Perlis](http://www.cs.yale.edu/homes/perlis-alan/quotes.html) once said: "A *language* that doesn't affect the way you *think* about *programming*, is not *worth* knowing"
 
 **Andrew**
 
