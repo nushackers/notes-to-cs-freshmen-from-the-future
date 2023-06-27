@@ -135,7 +135,7 @@ Use the checklist below to get a rough measure of your knowledge.
 * Recommended ones are:
     * [Ubuntu](http://www.ubuntu.com/) (Most user friendly?)
     
-    * [Linux Mint](http://linuxmint.com/)
+    * [Linux Mint](https://linuxmint.com/)
 
     * [Arch Linux](http://www.archlinux.org/) (minimal Linux distro. Good for those who likes to poke around and install stuff on your own. Not newbie friendly.)
 
@@ -317,7 +317,7 @@ Not necessarily about programming/computing.
 
 * [How To Win At College](https://www.amazon.com/How-Win-College-Surprising-Countrys-ebook/dp/B000FCK2XS)
 
-* [How To Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/)
+* [How To Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5)
 
 * [Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck-ebook/dp/B000FCKPHG/)
 
