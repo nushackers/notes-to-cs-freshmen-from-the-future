@@ -106,7 +106,7 @@ Because we *just* have to have some hero worship, don't we? ;-)
 
 Use the checklist below to get a rough measure of your knowledge.
 
-* [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
+* [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
 
 ## Introductions to various specializations
 
