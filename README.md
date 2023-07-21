@@ -319,6 +319,8 @@ Colloquial book titles are used where it’s famous enough to warrant so. For in
 
 Not necessarily about programming/computing.
 
+- [Anything You Want](https://www.amazon.co.uk/Anything-You-Want-Lessons-Entrepreneur/dp/0241209048)
+
 - [Godel, Escher, Bach](http://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
 
 - [Delivering Happiness](http://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446563048)
@@ -332,6 +334,10 @@ Not necessarily about programming/computing.
 - [Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck-ebook/dp/B000FCKPHG/)
 
 - [Deep Human](https://www.amazon.com/Deep-Human-Practical-Superskills-Success-ebook/dp/B082LYTG94/)
+
+### Good Blog Posts
+
+- [The Tyranny of the Faceless Other](https://sarvasvkulpati.com/blog/the-faceless-other)
 
 ## Good talks
 
