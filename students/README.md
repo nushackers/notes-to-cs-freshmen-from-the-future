@@ -229,3 +229,18 @@ To cut back on the consumption, you can install the [news-feed-eradicator extens
 **Yishu**
 
 Meet people. Make friends. Surround yourself with smart people. Everything else will fall into place. Some good advice: [you can move faster than you think](https://patrickcollison.com/fast) and [be willing to look stupid](https://danluu.com/look-stupid/).
+
+**Peirong**
+Some things that I will continue to do if I were to be a freshmen all over again:
+ ⁃ If you don’t have relevant work experience, work on a personal project. It doesn’t have to be complicated but it should be of some use in your life so that it can be interesting. It will help your resume stand out and possibly make securing your first internship that much easier. Hiring managers, especially for early internships, use projects as a gauge of the drive and competency of the candidate when working experience is non-existent.
+ ⁃ If you can, do an internship/(some kind of job) where you work with languages/frameworks that are not conventional (preferably early on). For me, I did an internship in a startup that uses Haskell and it blew my mind to how can functional languages work in the production setting. The community at these places are usually small, tight-knit and you get a much more personal and direct interaction with the people - you end up learning a lot more.
+ ⁃ Don’t worry about grades too much and let it stop you from taking interesting courses. The knowledge that you gain will offer immediate benefits. It will widen the repertoire of technical topics you can discuss intelligently on at job interviews/social events and help you make meaningful connections. It creates more common interests with others in the industry and a good way to start the convo to get to know more people.
+ ⁃ Go for exchange. You get to build serious friendships with peers from other faculties and a fantastic way to explore your host university/city/region in great detail.
+
+**Kevin Lim**
+Grades aren’t everything and there’s more to life than studying. Don’t shy away from modules just because they’re known to be difficult or have steep bell curves. Take the opportunity to explore and find out what you like in a relatively safe environment.
+
+Career-wise, everyone knows that it’s important to build up your technical knowledge, but honing your communication skills is equally crucial. Try to teach others (e.g. as a teaching assistant) or do mock interviews with your friends to practise breaking down your thoughts to someone else. This will serve you well in interviews and in the workplace.
+
+**Ahmed**
+Your 40+ years ahead will not be defined by the first grade you get, or the first job you start out with. Don't give up just because of a road bump! The mindset you carry will shape the journey you take in the long road of life ~
