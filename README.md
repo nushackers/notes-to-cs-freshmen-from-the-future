@@ -70,6 +70,8 @@ You’ll probably want to start with some general advice written for undergradua
 
 - [What advice does Thomas Cormen have for a computer science undergrad in his freshman year?](https://qr.ae/pGVIdr)
 
+* [Advice for Undergraduates from the 80,000 hours team](https://80000hours.org/articles/advice-for-undergraduates/)
+
 The sites from which the above articles are available are generally good places to read from. Also, follow some Computer Science blogs and sites:
 
 - [Paul Graham's Essays](http://paulgraham.com/articles.html) - Paul Graham leans towards startups but his earlier essays on programming, technology and work are worth reading. Particularly influential: [Python Paradox](http://paulgraham.com/pypar.html) and [Maker’s Schedule, Manager’s Schedule](http://www.paulgraham.com/makersschedule.html)
