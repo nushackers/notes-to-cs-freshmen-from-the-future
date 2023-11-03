@@ -209,6 +209,7 @@ Use the checklist below to get a rough measure of your knowledge.
     - Some awesome open source NUS projects include:
       - NUSMods: [https://github.com/nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
       - Coursemology: [https://github.com/Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+      - Source Academy: [https://github.com/source-academy/frontend](https://github.com/source-academy/frontend)
 
 - On making things...
 
